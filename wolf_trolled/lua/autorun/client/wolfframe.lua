@@ -72,3 +72,4 @@ close.DoClick = function(frame)
 end
 
 end
+print("Wolfs trolled panel succsefuly loaded up!")
