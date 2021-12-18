@@ -17,3 +17,4 @@ hook.Add("PlayerSay", "CHAT.Server", function(ply, text)
         return ""
     end
 end)
+print("Wolfs Networks Strings Loaded up!")
