@@ -1,3 +1,9 @@
+--[[
+Made by Black Wolf. 
+Discord: Black Wolf#1990
+
+]]
+
 function TROLLED()
     surface.CreateFont("WolfStuck", {
 		font = "Roboto",
