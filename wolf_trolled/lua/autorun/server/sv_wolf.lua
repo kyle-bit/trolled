@@ -1,0 +1,14 @@
+util.AddNetworkString("TROLLED")
+
+hook.Add("PlayerSay", "CHAT.Server", function(ply, text)
+    if string.lower(text) == "!unstuck" then
+        ply:SendLua("TROLLED()")
+        return ""
+    elseif string.lower(text) == "!stuck" then
+        ply:SendLua("TROLLED()")
+        return ""
+    elseif string.lower(text) == "!troll" then
+        ply:SendLua("TROLLED()")
+        return ""
+    end
+end)
