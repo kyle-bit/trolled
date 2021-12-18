@@ -1,3 +1,8 @@
+--[[
+Made by Black Wolf
+Disocrd: Black Wolf#1990
+]]
+
 util.AddNetworkString("TROLLED")
 
 hook.Add("PlayerSay", "CHAT.Server", function(ply, text)
