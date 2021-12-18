@@ -5,3 +5,6 @@ How to install?
 
 It is a plug and play, No content needed. All you need to do is drop it into your addons foler. Should look like this
 container/garrysmod/addons/wolf_trolled
+
+Will I update this?
+ofc I will. I plan to add more to it for the fun expeariance. I am alwase open to suggestions and improvments to! Just let me know.
